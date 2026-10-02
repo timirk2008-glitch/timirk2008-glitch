@@ -21,13 +21,15 @@
 * **Цель:** Стать крутым дизайнером, который умеет говорить с разработчиками на одном языке.
 
 ---
-### Мой технологический стек:
+### Технологии:
 
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Node.js](https://shields.io)
-![Python](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="NodeJS" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
+</p>
+
 
 ---
 ![GitHub Profile](https://github.com)
