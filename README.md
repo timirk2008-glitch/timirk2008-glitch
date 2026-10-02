@@ -21,5 +21,13 @@
 * **Цель:** Стать крутым дизайнером, который умеет говорить с разработчиками на одном языке.
 
 ---
+### Мой технологический стек:
 
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![Python](https://shields.io)
+![Git](https://shields.io)
+
+---
 ![GitHub Profile](https://github.com)
